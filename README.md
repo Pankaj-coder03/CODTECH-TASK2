@@ -1,4 +1,9 @@
-Sure, here's a README.md file for the temperature conversion program written in C++:
+**Name:** Pankaj Kumar
+**Company:** CODTECH IT SOLUTIONS
+**ID:** CT6WS556
+**Domain:** C++ PROGARMMING
+**Duration:** 20 July 2024 to 05 August 2024( 6 Weeks)
+**Mentor:** NEELA SANTOSH KUMAR
 
 # Temperature Converter
 
